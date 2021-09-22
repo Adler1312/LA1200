@@ -1,2 +1,2 @@
 # LA1200
-Randomnumber game 
+Willkommen zum Random Number game 
